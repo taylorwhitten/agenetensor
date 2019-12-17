@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Artsy Editorial tensor",
+      "tensorShape": [
+        3802,
+        300
+      ],
+      "tensorPath": "https://github.com/taylorwhittenbrown/agenetensor/blob/master/artsyeditorial_tensors.tsv",
+      "metadataPath": "https://github.com/taylorwhittenbrown/agenetensor/blob/master/artsyeditorial_meta.tsv"
+    }
+  ]
+}
+
