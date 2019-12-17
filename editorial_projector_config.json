@@ -6,8 +6,8 @@
         3802,
         300
       ],
-      "tensorPath": "https://github.com/taylorwhittenbrown/agenetensor/blob/master/artsyeditorial_tensors.tsv",
-      "metadataPath": "https://github.com/taylorwhittenbrown/agenetensor/blob/master/artsyeditorial_meta.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/taylorwhittenbrown/agenetensor/master/artsyeditorial_tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/taylorwhittenbrown/agenetensor/blob/master/artsyeditorial_meta.tsv"
     }
   ]
 }
